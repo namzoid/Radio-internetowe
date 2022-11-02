@@ -1,2 +1,2 @@
-# Radio-internetowe
+# Radio internetowe
 SK2 projekt
