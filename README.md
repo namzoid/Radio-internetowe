@@ -1,7 +1,7 @@
 # Radio internetowe --- SK2 projekt
 **Radio Internetowe** – aplikacja Klient-Serwer, działająca na następującej podstawie:
 
-serwer ma kolejkę plików dźwiękowych, które kolejno strumieniuje do wszystkich podłączonych klientów.
+serwer ma kolejkę plików dźwiękowych, które trumieniuje do wszystkich podłączonych klientów.
 
 ---
 Program umożliwi następujące działania:
