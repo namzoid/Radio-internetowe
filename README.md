@@ -9,19 +9,13 @@ Program umożliwi następujące działania:
   
 
 -   Użytkownik łączy się do serwera Radio i wpisuje swój nickname (jeśli nickname jest już zajęty, serwer prosi o podanie innego nickname).
+    Użytkownik pod wpisanym nickname trafia do “stacji radiowej”.
+   
     
+-   Podłączone użytkownicy mogą wykonywać następujące działania:
+    — wgranie własnego pliku dźwiękowego
+    — zobaczenie bieżącego stanu kolejki                                
+    — zlecenie przeskoczenia do następnego pliku z kolejki        
+    — usunięcie dowolnego pliku z bieżącej kolejki        
 
-  
-
--   Użytkownik pod wpisanym nickname trafia do lobby, w którym widzi bieżącą listę pokoi - “stacji radiowych” i ilość użytkowników która jest w każdym pokoju.
-    Z lobby użytkownik może wejść do już istniejącego pokoju lub założyć nowy. Użytkownik też może w każdej chwili wrócić z pokoju do lobby.
-
-  
--   Podłączone użytkownicy mogą wgrać na serwer swój własny plik dźwiękowy
-    
--   Podłączone użytkownicy mogą wykonywać następujące działania:        
-    — zobaczyć bieżący stan kolejki                                
-    — zlecić przeskoczenie do następnego pliku z kolejki        
-    — usunąć dowolny plik z bieżącej kolejki        
-
-Wszystkie czynności można będzie wykonać za pomocą GUI (graphical user interface).
+Wszystkie czynności można będzie wykonać za pomocą GUI (graphical user interface). Serwer odtwarza piosenki w czasie rzeczywistym.
