@@ -12,9 +12,9 @@ Program umożliwi następujące działania:
     Użytkownik pod wpisanym nickname trafia do “stacji radiowej”.
    
     
--   Podłączone użytkownicy mogą wykonywać następujące działania:
-    — wgranie własnego pliku dźwiękowego
-    — zobaczenie bieżącego stanu kolejki                                
+-   Podłączone użytkownicy mogą wykonywać następujące działania:     
+    — wgranie własnego pliku dźwiękowego     
+    — zobaczenie bieżącego stanu kolejki                                     
     — zlecenie przeskoczenia do następnego pliku z kolejki        
     — usunięcie dowolnego pliku z bieżącej kolejki        
 
