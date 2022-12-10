@@ -9,7 +9,7 @@ Program umożliwi następujące działania:
   
 
 -   Użytkownik łączy się do serwera Radio i wpisuje swój nickname (jeśli nickname jest już zajęty, serwer prosi o podanie innego nickname).
-    Użytkownik pod wpisanym nickname trafia do “stacji radiowej”.
+    Użytkownik pod wpisanym nickname trafia do pokoju “stacji radiowej”.
    
     
 -   Podłączone użytkownicy mogą wykonywać następujące działania:     
