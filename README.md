@@ -18,4 +18,4 @@ Program umożliwi następujące działania:
     — zlecenie przeskoczenia do następnego pliku z kolejki        
     — usunięcie dowolnego pliku z bieżącej kolejki        
 
-Wszystkie czynności można będzie wykonać za pomocą GUI (graphical user interface). Serwer odtwarza piosenki w czasie rzeczywistym.
+Wszystkie czynności można będzie wykonać za pomocą GUI (graphical user interface). Pliki dźwiękowe są odtwarzane w czasie rzeczywistym.
